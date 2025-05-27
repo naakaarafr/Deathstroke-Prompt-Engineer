@@ -19,10 +19,6 @@ A Streamlit-based web application that transforms simple user inputs into advanc
 
 * [Configuration](#configuration)
 
-* [Development](#development)
-
-* [Contributing](#contributing)
-
 * [License](#license)
 
 * [Acknowledgments](#acknowledgments)
